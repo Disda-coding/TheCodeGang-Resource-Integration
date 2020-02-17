@@ -31,7 +31,7 @@
 
 
 ## :sparkles: 校招经验
-- [x] [【互联网校招面经】当我踩了四个月坑后我想告诉你什么](https://mp.weixin.qq.com/s/kXR5Vkw_rPGS0UpkwOD7gA)
+- [x] [【互联网校招面经】当我踩了四个月坑后我想告诉你什么](https://mp.weixin.qq.com/s/pqwwK2yaUpYyhPEshz3JBQ)
 
 ## :alien: 操作系统
 
